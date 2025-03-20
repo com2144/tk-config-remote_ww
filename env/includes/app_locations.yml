@@ -142,6 +142,11 @@ apps.tk-mari-projectmanager.location:
   version: v1.3.1
 frameworks: '@frameworks'
 
+apps.tk-multi-version.location:
+  name: tk-multi-version
+  type: git
+  path: https://github.com/onetera/tk-multi-version.git
+    
 
 apps.tk-download.location:
   name: tk-download
