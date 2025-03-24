@@ -40,6 +40,7 @@ settings.tk-desktop.project:
     tk-multi-launchmari: "@settings.tk-multi-launchapp.mari"
     tk-multi-launchmotionbuilder: "@settings.tk-multi-launchapp.motionbuilder"
     tk-multi-publish2: "@settings.tk-multi-publish2.standalone"
+    tk-multi-verson: "@apps.tk-multi-version.location"
     tk-multi-screeningroom: "@settings.tk-multi-screeningroom.rv"
     tk-download: "@settings.tk-download.standalone"
     tk-desktop-timecard: "@settings.tk-desktop-timecard.standalone"
