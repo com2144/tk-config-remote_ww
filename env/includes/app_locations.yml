@@ -155,7 +155,7 @@ apps.tk-download.location:
 
 apps.tk-multi-workfiles2.location:
   type: git
-  name: tk-multi-workfiles2
+  #name: tk-multi-workfiles2
   path: https://github.com/onetera/tk-multi-workfiles2.git
   version: v0.11.15
 
